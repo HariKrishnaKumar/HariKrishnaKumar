@@ -1,6 +1,7 @@
 # Hi I am Hari Krishna Kumar  
 # 💫 About Me:
 🔭 I’m currently working as freelancer<br>👯 I’m looking to collaborate on ML<br>🌱 I’m currently learning Asure<br>💬 Ask me about CNN, Python<br>
+`For Recuters` Looking for my Project kindly send a mail with title "over View of the profile" Since i am having sensitive data that can be missused
 
 
 ## 🌐 Socials:
